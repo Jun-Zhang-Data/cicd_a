@@ -1,0 +1,8 @@
+
+snowflake:
+  user: "CARRIE"
+  password: "yutianI%1"
+  account: "uafwvdf-lb96787"
+  warehouse: "COMPUTE_WH"
+  database: "your_database"
+  schema: "your_schema"
