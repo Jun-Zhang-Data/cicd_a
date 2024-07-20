@@ -44,3 +44,4 @@ jobs:
 
     - name: Run tests in Docker container
       run: docker run my-python-app pytest tests/
+
